@@ -1,0 +1,12 @@
+:root {
+  --primary: #f7941e;
+  --white: #ffffff;
+  --dark-gray: #231f20;
+  --light-gray: #fafafa;
+}
+
+body {
+  margin: auto;
+  max-width: 1440px;
+  font-family: 'Poppins', sans-serif;
+}
